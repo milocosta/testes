@@ -6,4 +6,5 @@ import missingno as msno
 import matplotlib.pyplot as plt
 import seaborn as sns
 import tensorflow as tf
+from tensorflow import keras as ks
 # %%

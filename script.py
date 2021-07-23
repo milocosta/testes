@@ -23,7 +23,7 @@ np.random.seed(seed)
 
 # %%
 # Importação da Base de Dados Principal
-df = pd.read_excel('.\BD\ResultadosLoteria.xlsx')
+df = pd.read_excel('BD\ResultadosLoteria.xlsx')
 
 # %%
 df.head()
